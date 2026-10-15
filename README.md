@@ -6,7 +6,7 @@ This repositary tracks my progression in DSA and Backend Development. The focus 
 **Vinayak Udawant**
 *B.E. Information Technology*
 *SPPU (PREC, Loni)*
-[linkedin](ill put my linkedin here) | [email](mailto : my email here)
+[linkedin](https://www.linkedin.com/in/vinayak-udawant-208094282) | [email](mailto:vinayakudawant100@gmail.com)
 
 ## Repository Structure
 
